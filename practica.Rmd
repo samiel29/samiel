@@ -1,0 +1,12 @@
+---
+title: "Untitled"
+author: "samiel"
+date: "2025-09-18"
+output: html_document
+---
+#suma , resta, producto, division
+vamos a escribir la suma $4+x$, la resta $4-m$,
+el producto $4 \cdot x$ o $4 \times 5$ , la division $4 \
+ 
+
+
